@@ -90,7 +90,7 @@ let mode = ethix.public ? 'public' : 'private';
           interactiveMessage: proto.Message.InteractiveMessage.create({
             body: proto.Message.InteractiveMessage.Body.create({
               text: `╭─────────────━┈⊷
-│🤖 ʙᴏᴛ ɴᴀᴍᴇ: *ᴇᴛʜɪx-ᴍᴅ*
+│🤖 ʙᴏᴛ ɴᴀᴍᴇ: *ᴇᴛʜɪx-ᴅ*
 │📍 ᴠᴇʀꜱɪᴏɴ: 2.0.3
 │👨‍💻 ᴏᴡɴᴇʀ : *ᴇᴛʜɪx xsɪᴅ*      
 │👤 ɴᴜᴍʙᴇʀ: 919142294671
